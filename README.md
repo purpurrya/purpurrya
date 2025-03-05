@@ -8,5 +8,5 @@ Currently, I'm actively learning **backend development** to deepen my expertise.
 
 📫 **Contacts:** [Telegram](https://t.me/purrya) | [Email](mailto:purpurpurrya@gmail.com)  
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samgozman&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samgozman&layout=compact&theme=transparent&hide_border=true&langs_count=10)  
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=purpurrya&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=purpurrya&layout=compact&theme=transparent&hide_border=true&langs_count=10)  
