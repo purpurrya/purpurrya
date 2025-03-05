@@ -1,6 +1,6 @@
 ### Hiii ฅ≽(•⩊ •マ≼  
 
-I'm Asya, a 20-year-old developer fluent in **Russian** and **English**. I started programming two years ago and am currently studying **Computer Science** at **FEFU** (*Far Eastern Federal University*).  
+I'm Asya, a 20-year-old developer fluent in **Russian** and **English**. Currently studying **Computer Science** at **FEFU** (*Far Eastern Federal University*).  
 
 My main programming languages are **PHP**, **Python**, and **C++**. I have experience working with **PostgreSQL**, **Git**, **Docker**, **Laravel**, **Symfony**, and **Composer**.  
 
