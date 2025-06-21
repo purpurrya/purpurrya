@@ -1,4 +1,4 @@
-### Hiii ฅ≽(•⩊ •マ≼  
+### Hi ฅ≽(•⩊ •マ≼  
 
 I'm Asya, a 20-year-old developer fluent in **Russian** and **English**. Currently studying **Computer Science** at **FEFU** (*Far Eastern Federal University*).  
 
